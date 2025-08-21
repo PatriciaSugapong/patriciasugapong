@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an aspiring software or web developer from the Philippines, currently living in General Trias, Cavite. For some, it might sound far, but studying at Adamson University for college made me accustomed to daily commuting, rain or shine. I have a strong interest in software engineering and application/website development. My passion for graphic design and games fueled my journey into development, starting with front-end and eventually moving into full-stack development through hands-on projects.
+I am a Jr. Software Quality Analyst from the Philippines, currently in training to further develop my skills in software quality assurance. While my primary focus is on ensuring software quality and delivering reliable applications, I also have a strong passion for web development as a hobby. My background in graphic design and gaming inspired me to explore front-end development initially, and I continue to enjoy working on full-stack projects in my spare time to further sharpen my skills.
 
 ## Languages and Tools
 <p align="left">
